@@ -1,4 +1,4 @@
-[![joecons97's GitHub stats](https://github-readme-stats.vercel.app/api?username=joecons97)](https://github.com/joecons97/github-readme-stats)
+[![joecons97's GitHub stats](https://github-readme-stats.vercel.app/api?username=joecons97&show_icons=true&theme=dark)](https://github.com/joecons97/github-readme-stats)
 
 <!--
 **joecons97/joecons97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
